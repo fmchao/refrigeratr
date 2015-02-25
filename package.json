@@ -21,5 +21,11 @@
     "heroku",
     "express"
   ],
+
+  "dependencies": {
+    "express": "~4.9.x",
+    "cool-ascii-faces": "~1.3.x"
+  },
   "license": "MIT"
+
 }
